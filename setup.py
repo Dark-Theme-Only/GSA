@@ -2,9 +2,9 @@ from distutils.core import setup
 setup(
   name = 'GSA',         # How you named your package folder (MyLib)
   packages = ['GSA'],   # Chose the same as "name"
-  version = '0.1',      # Start with a small number and increase it with every change you make
+  version = '0.2',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
-  description = 'Python Package to implement Gravitational Search Algorithm',   # Give a short description about your library
+  description = 'Python Package to implement Gravitational Search Algorithm. Documentation at:https://github.com/deepanshu1999/GSA',   # Give a short description about your library
   author = 'Deepanshu Aggarwal',                   # Type in your name
   author_email = 'deepanshu4929@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/deepanshu1999/GSA',   # Provide either the link to your github or to your website
