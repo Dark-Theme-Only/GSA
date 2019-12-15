@@ -1,1 +1,1 @@
-from Search import init
+from GSA.Search import init
